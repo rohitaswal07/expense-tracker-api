@@ -105,3 +105,8 @@ mvn test
 
 - Data is stored in memory using an ArrayList.
 - No database is required as per assignment instructions.
+-  API Documentation
+
+Swagger UI is available at:
+
+http://localhost:8080/swagger-ui/index.html
